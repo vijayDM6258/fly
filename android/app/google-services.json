@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718256305235",
+    "project_id": "fly-chat-603cc",
+    "storage_bucket": "fly-chat-603cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718256305235:android:da8f91f8fe88795078c2a6",
+        "android_client_info": {
+          "package_name": "com.example.fly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAONYhyQxyrpPFvWmfj04aSBJ7sJVmCwg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
